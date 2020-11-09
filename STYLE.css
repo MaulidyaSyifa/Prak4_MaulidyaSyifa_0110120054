@@ -1,0 +1,87 @@
+
+body{
+	background-color: #E4E4E4; 
+}
+
+/* Navigation bar */
+
+a{
+	font-family: times new roman;
+	font-size: 12;
+	padding: 14px 10px;
+	text-underline-position: none;
+}
+
+ul{
+	padding: 14px;
+}
+
+li{
+	display: inline;
+}
+
+li a{
+	background: #000000;
+	color: fff;
+}
+
+li a hover{
+	background: #4da4ff;
+	color: #fff;
+}
+
+.nav{
+	background: white;
+	height: 50px;
+	font-weight: bold;
+}
+
+.kerangka{
+	width: 1000px;
+	height: auto;
+	background-color: white;
+	margin-left: 150px;
+}
+.menu{
+	width: 1000px;
+	height: 70px;
+	background-color: white;
+}
+
+.logo{
+	font-family: times new roman;
+	font-size: 10;
+	color: black;
+	padding-top: 1px;
+	padding-left: 50px;
+}
+
+.imgheader{
+	width: 1000px;
+	height: 300px;
+}
+
+.tentangkami{
+	width: 1000px;
+	height: 1200px;
+
+}
+
+.fotohotel{
+	width: 1000;
+	height: auto;
+}
+
+.fasilitashotel{
+	width: 1000;
+	height: auto;
+}
+
+.pesansekarang{
+	font-family: times new roman;
+	font-size: 12;
+	color: black;
+	padding-top: 11px;
+	padding-left: 20px;
+
+}
